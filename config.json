@@ -1,0 +1,16 @@
+{
+    "check_interval": 60,
+    "min_profit": 1.0,
+    "language": "en",
+    "cex_exchanges": [
+        "binance", "coinbase", "kraken", "bitfinex", "bittrex", "kucoin", "okex", "gate", "huobi", "ftx",
+        "poloniex", "bitstamp", "gemini", "crypto", "hitbtc", "bitflyer", "bithumb", "binanceus", "bitrue", "btse"
+    ],
+    "dex_exchanges": [
+        "uniswap", "sushiswap", "pancakeswap", "curve", "balancer", "bancor", "dydx", "1inch", "0x", "kyber",
+        "osmosis", "quickswap", "serum", "raydium", "apeswap", "bakeryswap", "defiswap", "waultswap", "mdex", "stellaswap"
+    ],
+    "criteria": "",
+    "users": {},
+    "alerts": []
+}
